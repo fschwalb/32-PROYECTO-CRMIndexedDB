@@ -116,7 +116,7 @@
 
                     cursor.continue();
                 } else{
-                    console.log( 'No hay más registros...' );
+                    console.log( 'No hay más registros...' )
                 };
 
             };
